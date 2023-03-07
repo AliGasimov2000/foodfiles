@@ -1,0 +1,252 @@
+body {
+  font-family: "Dosis", sans-serif;
+  font-weight: 500;
+}
+
+.imgbox {
+  overflow: hidden;
+}
+.imgbox img {
+  width: 100%;
+}
+
+section {
+  padding: 80px 0;
+}
+
+header {
+  padding: 20px 0;
+}
+header .imgbox {
+  width: 40px;
+}
+header nav a {
+  font-size: 20px;
+  color: #595959;
+  margin-right: 30px;
+}
+header nav .home-color {
+  color: #47b2bc;
+}
+
+#beautiful {
+  background-color: #f4fafb;
+}
+#beautiful .box h1 {
+  font-weight: 700;
+  font-size: 68px;
+  margin-right: 80px;
+}
+#beautiful .box span {
+  color: #4ab4be;
+}
+#beautiful .box h5 {
+  color: #9098b4;
+  font-size: 20px;
+  margin: 25px 75px 50px 0;
+  line-height: 1.3;
+}
+#beautiful .box .btn {
+  padding: 13px 30px;
+  font-size: 20px;
+  border-radius: 5px;
+  background-color: #35a5ae;
+  color: white;
+}
+#beautiful .box .imgbox {
+  width: 120px;
+  margin: 20px 0 10px;
+}
+#beautiful .box h4 {
+  font-size: 20px;
+}
+
+#thehome {
+  background-color: #f3f7f7;
+}
+#thehome .textbox h1 {
+  color: #47b2bc;
+  font-size: 60px;
+  font-weight: 700;
+  width: 390px;
+}
+#thehome .textbox h5 {
+  color: #4f5c6a;
+  font-size: 20px;
+  margin: 25px 75px 50px 0;
+  line-height: 1.3;
+}
+#thehome .textbox .btn {
+  padding: 13px 30px;
+  background-color: #47b2bc;
+  color: white;
+  font-size: 20px;
+  border-radius: 5px;
+}
+#thehome .imgbox {
+  width: 520px;
+}
+
+#works h1 {
+  font-weight: 700;
+  font-size: 60px;
+  color: #45a5ae;
+  margin-bottom: 60px;
+}
+#works .box .imgbox {
+  width: 350px;
+}
+#works .box .textbox {
+  padding: 35px 55px;
+}
+#works .box .textbox h2 {
+  font-weight: 700;
+  font-size: 25px;
+  margin-bottom: 9px;
+}
+#works .box .textbox h4 {
+  font-size: 20px;
+  color: #727a88;
+  line-height: 1.3;
+}
+
+#browse .textbox {
+  width: 500px;
+  text-align: center;
+}
+#browse .textbox h1 {
+  font-weight: 700;
+  font-size: 60px;
+  color: #47b2bc;
+}
+#browse .textbox h4 {
+  font-size: 20px;
+  color: #878787;
+  margin: 20px 0;
+  line-height: 1.2;
+}
+#browse .textbox h4 span {
+  color: #47b2bc;
+  text-decoration-line: underline;
+}
+#browse .btn {
+  font-size: 18px;
+  border: 0.5px solid #9c9999;
+  padding: 15px 46px;
+  margin: 0 20px;
+  border-radius: 5px;
+}
+#browse .bgc {
+  background-color: #47b2bc;
+  color: white;
+}
+#browse .box {
+  padding: 30px;
+}
+#browse .box .imgbox {
+  width: 150px;
+  border-radius: 10px;
+}
+#browse .box .textbox {
+  text-align: left;
+  width: auto;
+  margin-left: 20px;
+}
+#browse .box .textbox .minibox h2 {
+  font-size: 22px;
+  font-weight: 700;
+}
+#browse .box .textbox .minibox h5 {
+  color: #47b2bc;
+  font-size: 18px;
+}
+#browse .box .textbox p {
+  margin: 15px 0;
+  font-size: 18px;
+  line-height: 1.2;
+  color: rgba(30, 30, 72, 0.4392156863);
+}
+#browse .box .textbox .add {
+  display: flex;
+}
+#browse .box .textbox .add input {
+  border: 1px solid #cdcccc;
+  background-color: #eeeeee;
+  width: 50px;
+}
+#browse .box .textbox .add .btn {
+  background-color: #47b2bc;
+  color: white;
+  padding: 7px 20px;
+}
+#browse .big {
+  padding: 17px 53px;
+  margin-top: 50px;
+}
+
+#order .imgbox {
+  width: 600px;
+}
+#order .textbox h1 {
+  font-size: 60px;
+  font-weight: 700;
+  color: #5eb0b7;
+}
+#order .textbox h5 {
+  color: #6a7080;
+  font-size: 20px;
+  margin: 25px 75px 50px 0;
+  line-height: 1.3;
+}
+#order .textbox .btn {
+  color: white;
+  font-size: 20px;
+  background-color: #5eb0b7;
+  padding: 13px 34px;
+  border-radius: 5px;
+}
+
+#callour {
+  background-color: #f3f4f8;
+}
+#callour .textbox h1 {
+  font-size: 65px;
+  font-weight: 700;
+  color: #53b5be;
+}
+#callour .textbox h5 {
+  color: #808080;
+  font-size: 20px;
+  margin: 25px 75px 50px 0;
+  line-height: 1.3;
+}
+#callour .textbox .btn {
+  font-size: 20px;
+  color: white;
+  background-color: #53b5be;
+  padding: 13px 34px;
+}
+#callour .imgbox {
+  width: 520px;
+}
+
+#support .textbox h1 {
+  font-size: 60px;
+  font-weight: 700;
+  color: white;
+  margin: 0 70px 0 40px;
+  line-height: 1.1;
+}
+#support .textbox span {
+  color: rgba(44, 108, 108, 0.4745098039);
+}
+#support .textbox .btn {
+  font-size: 22px;
+  color: #47b2bc;
+  background-color: white;
+  padding: 10px 30px;
+  margin: 30px 0 0 40px;
+}
+#support .bgc {
+  background-color: #4ab9c4;
+}/*# sourceMappingURL=style.css.map */
