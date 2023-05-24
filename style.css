@@ -496,10 +496,10 @@ header .menu nav .home-color {
 }
 #support .bgc {
   background-color: #4ab9c4;
-  border-radius: 20px;
+  border-radius: 21px;
 }
 #support .imgbox {
-  border-radius: 20px;
+  border-radius: 21px;
 }
 @media screen and (max-width: 992px) {
   #support .textbox h1 {
